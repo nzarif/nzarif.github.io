@@ -8,6 +8,7 @@
             font-size: 24px;
             color: #008080;
             line-height: 40px;
+            text-indent: 10px;
         }
         p.review{
             direction: rtl;
@@ -16,6 +17,7 @@
             font-size: 21px;
             color: #008080;
             line-height: 35px;
+            text-indent: 10px;
         }
     </style>
     <meta charset="UTF-8">
