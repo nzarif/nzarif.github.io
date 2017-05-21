@@ -3,7 +3,7 @@
      <style>
         p.summary{
             direction: rtl;
-            font-family: "IranNastaliq";
+            font-family: "IranNastaliq",Tahoma;
             src: url(http://www.fonts2u.com/download/irannastaliq.font);
             font-size: 24px;
             color: #008080;
@@ -11,10 +11,11 @@
         }
         p.review{
             direction: rtl;
-            font-family: "IranNastaliq";
+            font-family: "IranNastaliq",Tahoma;
             src: url(http://www.fonts2u.com/download/irannastaliq.font);
-            font-size: 20px;
+            font-size: 21px;
             color: #008080;
+            line-height: 35px;
         }
     </style>
     <meta charset="UTF-8">
