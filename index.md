@@ -1,4 +1,4 @@
-<html lang="fa" dir="rtl">
+<html lang="fa">
 <head>
      <style>
         p.summary{
