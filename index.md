@@ -7,7 +7,7 @@
             src: url(http://www.fonts2u.com/download/irannastaliq.font);
             font-size: 24px;
             color: #008080;
-            line-height: 40px;
+            line-height: 43px;
             text-indent: 25px;
         }
         p.review{
@@ -16,7 +16,7 @@
             src: url(http://www.fonts2u.com/download/irannastaliq.font);
             font-size: 21px;
             color: #008080;
-            line-height: 35px;
+            line-height: 38px;
             text-indent: 20px;
         }
     </style>
