@@ -1,19 +1,19 @@
 <html lang="fa" dir="rtl">
 <head>
-    <style>
+     <style>
         p.summary{
             direction: rtl;
-            font-family: "B Nazanin";
-            src: url(http://www.fonts2u.com/download/b-nazanin.font);
-            font-size: 20px;
-            color: black;
+            font-family: "IranNastaliq";
+            src: url(http://www.fonts2u.com/download/irannastaliq.font);
+            font-size: 24px;
+            color: #008080;
         }
         p.review{
             direction: rtl;
             font-family: "IranNastaliq";
             src: url(http://www.fonts2u.com/download/irannastaliq.font);
-            font-size: 18px;
-            color: cadetblue;
+            font-size: 20px;
+            color: #008080;
         }
     </style>
     <meta charset="UTF-8">
