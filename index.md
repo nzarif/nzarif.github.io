@@ -1,5 +1,21 @@
 <html lang="fa" dir="rtl">
 <head>
+    <style>
+        p.summary{
+            direction: rtl;
+            font-family: "B Nazanin";
+            src: url(http://www.fonts2u.com/download/b-nazanin.font);
+            font-size: 20px;
+            color: black;
+        }
+        p.review{
+            direction: rtl;
+            font-family: "IranNastaliq";
+            src: url(http://www.fonts2u.com/download/irannastaliq.font);
+            font-size: 18px;
+            color: cadetblue;
+        }
+    </style>
     <meta charset="UTF-8">
     <title>تحقیق</title>
 </head>
